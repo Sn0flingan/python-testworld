@@ -11,7 +11,9 @@ to get info: git status
 When you made a change you want to save:
 1. Open git gui (type git gui in terminal)
 2. Stage changes
-3. Commit them.
+3. Commit changes
+4. Close git gui
+5. Push to github with git push 
 (NOTE: this only makes changes in your branch, not the master)
 
 ## Merging
@@ -20,5 +22,5 @@ you should merge. But before we merge it is good to get the opinions of
 someone else in the group. This is done by creating a pull-request.
 A pull-resquest is basically asking someone to "proof" read your code.
 The pull-request is done in github. When you got enough answers sort out the mergeing in github space.
-
+If the branch is no longer needed delete it to make the code more simple.
 
